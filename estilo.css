@@ -127,7 +127,23 @@ h1{
     background-color: rgba(245, 132, 3, 0.808); /* aqui você pode definir a cor do overlay que será exibida quando o mouse passar sobre a coluna */
   } 
 
-#sociais{
-    
+#educadores p{
+    margin-bottom: 50px;
 }
+
+#sociais{
+    background-color:#ff6700;   
+}
+#sociais h2{
+    color: white;
+    text-align: center;
+    margin-bottom: 30px;
+    margin-top: 50px!important;
+    padding: 10px;
+}
+
+#sociais p{
+    margin-bottom: 50px;
+}
+
  
